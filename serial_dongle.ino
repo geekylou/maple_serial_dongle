@@ -1,5 +1,5 @@
 /*
-  USB/UART bride for Arduino Leonardo
+  USB/UART bridge for Arduino Leonardo
   Originally written by Uli Koehler in 2015
   Published on techoverflow.net
   Updated by Louise Newberry to add baud rate support on STM32Duino (http://www.stm32duino.com/)
